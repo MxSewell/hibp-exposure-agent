@@ -44,7 +44,7 @@ Important:
 """
     else:
         prompt = f"""
-You are a cybersecurity exposure analysis assistant.
+You are a cybersecurity exposure analyst.
 
 A credential-related finding was detected.
 
